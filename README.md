@@ -4,6 +4,7 @@
 
 - 건국대 학사과정(2019.03 ~)
 - 42서울 (2021.05 ~)
+- [42seoul activity](https://github.com/42seoul-sunghwki)
 
 ## 상
 
