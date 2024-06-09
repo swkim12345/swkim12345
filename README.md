@@ -1,12 +1,12 @@
-# 김성환
+[# 김성환](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=SUNGHWKI%20Profile&reversal=true)
 
-## 이력
+## Profile
 
 - 건국대 학사과정(2019.03 ~)
 - 42서울 (2021.05 ~)
 - [42seoul activity](https://github.com/42seoul-sunghwki)
 
-## 상
+## Prize
 
 - 42서울 이노콘 은상
 
