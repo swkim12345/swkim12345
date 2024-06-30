@@ -10,9 +10,6 @@
 
 - 42서울 이노콘 은상
 
-
-[![swkim12345's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim12345)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swkim12345)](https://solved.ac/swkim12345)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swkim12345&layout=Demo&theme=dark)
+![swkim12345's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim12345&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
