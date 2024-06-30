@@ -13,4 +13,6 @@
 
 [![swkim12345's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim12345)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--![swkim12345's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=swkim12345)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swkim12345)](https://solved.ac/swkim12345)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swkim12345&layout=Demo&theme=dark)
