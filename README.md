@@ -1,16 +1,19 @@
 ## 🏝️ sunghwki profile
 🛤️ 모르는 곳으로 여행을 가는 것을 좋아합니다.
 <br/>
-🏗️ 자동화하고 최적화하면서 얻는 수월함을 즐깁니다.
+🏗️ AI Agent를 이용한 개발에 관심이 있습니다.
 <br/>
-🧳 현재는 SSAFY를 진행중입니다.
+🧳 현재는 농협은행 IT에 근무하고 있습니다.
 
 ## 🥞 Stacks
 
 ### Backend
+**Java:** <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=TypeORM&logoColor=white"> <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Artillery-EF3E36?style=flat-square&logo=artillery&logoColor=white" alt="Artillery"> 
+**TypeScript:** <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=TypeORM&logoColor=white">
 
+### Database & Infrastructure
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"> <img src="https://img.shields.io/badge/Artillery-EF3E36?style=flat-square&logo=artillery&logoColor=white" alt="Artillery">
 
 ### CI/CD
 
@@ -30,4 +33,4 @@
 </br>
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=swkim12345)](https://solved.ac/swkim12345)-->
 
-[![swkim12345's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim12345&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![swkim12345's GitHub stats](https://github-readme-stats.vercel.app/api?username=swkim12345&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
